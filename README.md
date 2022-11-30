@@ -1,13 +1,15 @@
 ### Hi there 👋<img src="https://visitor-badge.glitch.me/badge?page_id=Yz-001.visitor-badge&right_color=red" />
 ### 概览数据
 <div align="center">
-  <img  src="https://streak-stats.demolab.com?user=Yz-001&theme=tokyonight_duo&background=1A1B27" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=Yz-001&show_icons=true&theme=tokyonight" />
+  <img style="width:45%" src="https://streak-stats.demolab.com?user=Yz-001&theme=tokyonight_duo&background=1A1B27" />
+  <img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=Yz-001&show_icons=true&theme=tokyonight" />
 ​</div>
 
 
 ### 常用语言占比统计
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=1A1B27&theme=graywhite" />
+<div align="center">
+  <img style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=1A1B27&theme=graywhite" />
+ ​</div>
 
 
 <!-- 
